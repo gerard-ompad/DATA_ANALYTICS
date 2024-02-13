@@ -1,0 +1,365 @@
+,Region,Country,Sex,Most sold cigarette brand (US$),Years
+0,Eastern Mediterranean,Afghanistan,Male,0.22,15
+1,Eastern Mediterranean,Afghanistan,Female,0.22,16
+2,Europe,Albania,Male,1.43,18
+3,Europe,Albania,Female,1.43,20
+4,Africa,Algeria,Male,1.14,18
+5,Africa,Algeria,Female,1.14,20
+6,Europe,Andorra,Male,3.13,23
+7,Europe,Andorra,Female,3.13,27
+8,Americas,Antigua and Barbuda,Male,2.41,21
+9,Americas,Antigua and Barbuda,Female,2.41,23
+10,Americas,Argentina,Male,1.37,19
+11,Americas,Argentina,Female,1.37,23
+12,Europe,Armenia,Male,1.49,15
+13,Europe,Armenia,Female,1.49,19
+14,Western Pacific,Australia,Male,10.77,23
+15,Western Pacific,Australia,Female,10.77,26
+16,Europe,Austria,Male,5.21,22
+17,Europe,Austria,Female,5.21,26
+18,Europe,Azerbaijan,Male,0.87,17
+19,Europe,Azerbaijan,Female,0.87,20
+20,Americas,Bahamas,Male,2.69,21
+21,Americas,Bahamas,Female,2.69,24
+22,Eastern Mediterranean,Bahrain,Male,1.86,21
+23,Eastern Mediterranean,Bahrain,Female,1.86,23
+24,South-East Asia,Bangladesh,Male,0.48,18
+25,South-East Asia,Bangladesh,Female,0.48,18
+26,Americas,Barbados,Male,5.50,21
+27,Americas,Barbados,Female,5.50,25
+28,Europe,Belarus,Male,0.84,14
+29,Europe,Belarus,Female,0.84,21
+30,Europe,Belgium,Male,6.31,22
+31,Europe,Belgium,Female,6.31,25
+32,Americas,Belize,Male,2.50,20
+33,Americas,Belize,Female,2.50,22
+34,Africa,Benin,Male,0.99,16
+35,Africa,Benin,Female,0.99,17
+36,Americas,Bolivia (Plurinational State of),Male,0.85,17
+37,Americas,Bolivia (Plurinational State of),Female,0.85,19
+38,Europe,Bosnia and Herzegovina,Male,1.53,19
+39,Europe,Bosnia and Herzegovina,Female,1.53,21
+40,Africa,Botswana,Male,2.63,16
+41,Africa,Botswana,Female,2.63,18
+42,Americas,Brazil,Male,1.84,19
+43,Americas,Brazil,Female,1.84,23
+44,Western Pacific,Brunei Darussalam,Male,1.64,20
+45,Western Pacific,Brunei Darussalam,Female,1.64,21
+46,Europe,Bulgaria,Male,2.74,17
+47,Europe,Bulgaria,Female,2.74,22
+48,Africa,Burkina Faso,Male,0.99,14
+49,Africa,Burkina Faso,Female,0.99,15
+50,Africa,Burundi,Male,0.65,15
+51,Africa,Burundi,Female,0.65,16
+52,Africa,Cote d'Ivoire,Male,1.39,16
+53,Africa,Cote d'Ivoire,Female,1.39,17
+54,Africa,Cape Verde,Male,2.13,18
+55,Africa,Cape Verde,Female,2.13,21
+56,Western Pacific,Cambodia,Male,0.33,15
+57,Western Pacific,Cambodia,Female,0.33,17
+58,Africa,Cameroon,Male,0.99,15
+59,Africa,Cameroon,Female,0.99,17
+60,Americas,Canada,Male,8.44,23
+61,Americas,Canada,Female,8.44,26
+62,Africa,Central African Republic,Male,0.62,15
+63,Africa,Central African Republic,Female,0.62,16
+64,Africa,Chad,Male,0.99,14
+65,Africa,Chad,Female,0.99,16
+66,Americas,Chile,Male,3.06,21
+67,Americas,Chile,Female,3.06,25
+68,Western Pacific,China,Male,0.74,19
+69,Western Pacific,China,Female,0.74,21
+70,Americas,Colombia,Male,1.02,23
+71,Americas,Colombia,Female,1.02,25
+72,Africa,Comoros,Male,1.32,15
+73,Africa,Comoros,Female,1.32,17
+74,Africa,Congo,Male,0.99,16
+75,Africa,Congo,Female,0.99,18
+76,Western Pacific,Cook Islands,Male,5.94,19
+77,Western Pacific,Cook Islands,Female,5.94,26
+78,Americas,Costa Rica,Male,1.55,22
+79,Americas,Costa Rica,Female,1.55,25
+80,Europe,Croatia,Male,3.23,19
+81,Europe,Croatia,Female,3.23,23
+82,Europe,Cyprus,Male,3.67,23
+83,Europe,Cyprus,Female,3.67,25
+84,Europe,Czech Republic,Male,3.31,19
+85,Europe,Czech Republic,Female,3.31,23
+86,Africa,Democratic Republic of the Congo,Male,0.78,15
+87,Africa,Democratic Republic of the Congo,Female,0.78,16
+88,Europe,Denmark,Male,6.47,21
+89,Europe,Denmark,Female,6.47,24
+90,Eastern Mediterranean,Djibouti,Male,1.13,15
+91,Eastern Mediterranean,Djibouti,Female,1.13,16
+92,Americas,Dominica,Male,1.30,21
+93,Americas,Dominica,Female,1.30,22
+94,Americas,Dominican Republic,Male,3.24,20
+95,Americas,Dominican Republic,Female,3.24,20
+96,Americas,Ecuador,Male,1.70,22
+97,Americas,Ecuador,Female,1.70,24
+98,Eastern Mediterranean,Egypt,Male,0.70,17
+99,Eastern Mediterranean,Egypt,Female,0.70,20
+100,Americas,El Salvador,Male,1.75,20
+101,Americas,El Salvador,Female,1.75,22
+102,Africa,Equatorial Guinea,Male,0.99,15
+103,Africa,Equatorial Guinea,Female,0.99,16
+104,Africa,Eritrea,Male,1.95,13
+105,Africa,Eritrea,Female,1.95,16
+106,Europe,Estonia,Male,2.66,18
+107,Europe,Estonia,Female,2.66,24
+108,Africa,Ethiopia,Male,0.55,16
+109,Africa,Ethiopia,Female,0.55,18
+110,Europe,Finland,Male,5.73,22
+111,Europe,Finland,Female,5.73,26
+112,Europe,France,Male,7.30,23
+113,Europe,France,Female,7.30,27
+114,Africa,Gabon,Male,1.99,17
+115,Africa,Gabon,Female,1.99,19
+116,Africa,Gambia,Male,0.35,13
+117,Africa,Gambia,Female,0.35,14
+118,Europe,Georgia,Male,0.98,16
+119,Europe,Georgia,Female,0.98,20
+120,Europe,Germany,Male,6.45,22
+121,Europe,Germany,Female,6.45,25
+122,Africa,Ghana,Male,1.39,17
+123,Africa,Ghana,Female,1.39,19
+124,Europe,Greece,Male,4.17,22
+125,Europe,Greece,Female,4.17,26
+126,Americas,Grenada,Male,2.78,19
+127,Americas,Grenada,Female,2.78,22
+128,Americas,Guatemala,Male,1.70,20
+129,Americas,Guatemala,Female,1.70,21
+130,Africa,Guinea,Male,0.39,15
+131,Africa,Guinea,Female,0.39,17
+132,Africa,Guinea-Bissau,Male,0.60,14
+133,Africa,Guinea-Bissau,Female,0.60,16
+134,Americas,Guyana,Male,1.47,13
+135,Americas,Guyana,Female,1.47,17
+136,Americas,Honduras,Male,1.43,20
+137,Americas,Honduras,Female,1.43,22
+138,Europe,Hungary,Male,2.80,17
+139,Europe,Hungary,Female,2.80,22
+140,Europe,Iceland,Male,7.47,23
+141,Europe,Iceland,Female,7.47,26
+142,South-East Asia,India,Male,1.51,16
+143,South-East Asia,India,Female,1.51,18
+144,South-East Asia,Indonesia,Male,1.47,17
+145,South-East Asia,Indonesia,Female,1.47,19
+146,Eastern Mediterranean,Iran (Islamic Republic of),Male,0.46,19
+147,Eastern Mediterranean,Iran (Islamic Republic of),Female,0.46,20
+148,Eastern Mediterranean,Iraq,Male,0.64,15
+149,Eastern Mediterranean,Iraq,Female,0.64,20
+150,Europe,Ireland,Male,11.14,22
+151,Europe,Ireland,Female,11.14,25
+152,Europe,Israel,Male,5.56,23
+153,Europe,Israel,Female,5.56,26
+154,Europe,Italy,Male,4.82,23
+155,Europe,Italy,Female,4.82,27
+156,Americas,Jamaica,Male,6.75,20
+157,Americas,Jamaica,Female,6.75,23
+158,Western Pacific,Japan,Male,3.47,23
+159,Western Pacific,Japan,Female,3.47,28
+160,Eastern Mediterranean,Jordan,Male,1.34,19
+161,Eastern Mediterranean,Jordan,Female,1.34,20
+162,Europe,Kazakhstan,Male,0.68,14
+163,Europe,Kazakhstan,Female,0.68,18
+164,Africa,Kenya,Male,1.25,16
+165,Africa,Kenya,Female,1.25,18
+166,Western Pacific,Kiribati,Male,5.75,22
+167,Western Pacific,Kiribati,Female,5.75,20
+168,Eastern Mediterranean,Kuwait,Male,0.14,23
+169,Eastern Mediterranean,Kuwait,Female,0.14,23
+170,Europe,Kyrgyzstan,Male,0.49,16
+171,Europe,Kyrgyzstan,Female,0.49,19
+172,Western Pacific,Lao People's Democratic Republic,Male,0.61,16
+173,Western Pacific,Lao People's Democratic Republic,Female,0.61,18
+174,Europe,Latvia,Male,2.81,16
+175,Europe,Latvia,Female,2.81,22
+176,Eastern Mediterranean,Lebanon,Male,1.49,17
+177,Eastern Mediterranean,Lebanon,Female,1.49,20
+178,Africa,Lesotho,Male,3.82,15
+179,Africa,Lesotho,Female,3.82,17
+180,Africa,Liberia,Male,0.69,15
+181,Africa,Liberia,Female,0.69,16
+182,Eastern Mediterranean,Libya,Male,1.31,17
+183,Eastern Mediterranean,Libya,Female,1.31,21
+184,Europe,Lithuania,Male,2.87,17
+185,Europe,Lithuania,Female,2.87,23
+186,Europe,Luxembourg,Male,4.79,22
+187,Europe,Luxembourg,Female,4.79,26
+188,Africa,Madagascar,Male,0.92,18
+189,Africa,Madagascar,Female,0.92,19
+190,Western Pacific,Malaysia,Male,3.14,18
+191,Western Pacific,Malaysia,Female,3.14,20
+192,South-East Asia,Maldives,Male,1.48,20
+193,South-East Asia,Maldives,Female,1.48,20
+194,Africa,Mali,Male,1.39,13
+195,Africa,Mali,Female,1.39,14
+196,Europe,Malta,Male,5.21,22
+197,Europe,Malta,Female,5.21,24
+198,Western Pacific,Marshall Islands,Male,2.75,13
+199,Western Pacific,Marshall Islands,Female,2.75,12
+200,Africa,Mauritania,Male,1.51,14
+201,Africa,Mauritania,Female,1.51,15
+202,Africa,Mauritius,Male,2.48,18
+203,Africa,Mauritius,Female,2.48,22
+204,Americas,Mexico,Male,2.37,20
+205,Americas,Mexico,Female,2.37,22
+206,Western Pacific,Micronesia (Federated States of),Male,1.50,16
+207,Western Pacific,Micronesia (Federated States of),Female,1.50,18
+208,Europe,Monaco,Male,7.30,23
+209,Europe,Monaco,Female,7.30,27
+210,Western Pacific,Mongolia,Male,0.59,15
+211,Western Pacific,Mongolia,Female,0.59,19
+212,Europe,Montenegro,Male,0.85,18
+213,Europe,Montenegro,Female,0.85,21
+214,Eastern Mediterranean,Morocco,Male,2.06,17
+215,Eastern Mediterranean,Morocco,Female,2.06,20
+216,Africa,Mozambique,Male,0.54,16
+217,Africa,Mozambique,Female,0.54,17
+218,Africa,Namibia,Male,3.67,17
+219,Africa,Namibia,Female,3.67,19
+220,Western Pacific,Nauru,Male,4.46,14
+221,Western Pacific,Nauru,Female,4.46,19
+222,South-East Asia,Nepal,Male,1.14,16
+223,South-East Asia,Nepal,Female,1.14,18
+224,Europe,Netherlands,Male,6.58,22
+225,Europe,Netherlands,Female,6.58,25
+226,Western Pacific,New Zealand,Male,7.24,23
+227,Western Pacific,New Zealand,Female,7.24,26
+228,Americas,Nicaragua,Male,1.30,19
+229,Americas,Nicaragua,Female,1.30,22
+230,Africa,Niger,Male,0.79,14
+231,Africa,Niger,Female,0.79,14
+232,Africa,Nigeria,Male,1.49,15
+233,Africa,Nigeria,Female,1.49,16
+234,Western Pacific,Niue,Male,7.24,16
+235,Western Pacific,Niue,Female,7.24,25
+236,Europe,Norway,Male,13.30,22
+237,Europe,Norway,Female,13.30,26
+238,Eastern Mediterranean,Oman,Male,1.69,15
+239,Eastern Mediterranean,Oman,Female,1.69,19
+240,Eastern Mediterranean,Pakistan,Male,0.33,17
+241,Eastern Mediterranean,Pakistan,Female,0.33,18
+242,Western Pacific,Palau,Male,3.50,16
+243,Western Pacific,Palau,Female,3.50,22
+244,Americas,Panama,Male,3.25,22
+245,Americas,Panama,Female,3.25,24
+246,Americas,Paraguay,Male,0.27,20
+247,Americas,Paraguay,Female,0.27,23
+248,Americas,Peru,Male,1.59,21
+249,Americas,Peru,Female,1.59,23
+250,Western Pacific,Philippines,Male,0.30,16
+251,Western Pacific,Philippines,Female,0.30,19
+252,Europe,Poland,Male,2.59,18
+253,Europe,Poland,Female,2.59,23
+254,Europe,Portugal,Male,4.56,21
+255,Europe,Portugal,Female,4.56,25
+256,Eastern Mediterranean,Qatar,Male,1.65,27
+257,Eastern Mediterranean,Qatar,Female,1.65,24
+258,Western Pacific,Republic of Korea,Male,2.11,21
+259,Western Pacific,Republic of Korea,Female,2.11,26
+260,Europe,Republic of Moldova,Male,0.73,15
+261,Europe,Republic of Moldova,Female,0.73,19
+262,Europe,Romania,Male,3.03,17
+263,Europe,Romania,Female,3.03,22
+264,Europe,Russian Federation,Male,1.03,14
+265,Europe,Russian Federation,Female,1.03,20
+266,Africa,Rwanda,Male,0.85,16
+267,Africa,Rwanda,Female,0.85,17
+268,Americas,Saint Kitts and Nevis,Male,2.41,17
+269,Americas,Saint Kitts and Nevis,Female,2.41,21
+270,Americas,Saint Lucia,Male,2.41,19
+271,Americas,Saint Lucia,Female,2.41,23
+272,Americas,Saint Vincent and the Grenadines,Male,2.00,19
+273,Americas,Saint Vincent and the Grenadines,Female,2.00,22
+274,Western Pacific,Samoa,Male,3.22,16
+275,Western Pacific,Samoa,Female,3.22,21
+276,Europe,San Marino,Male,5.21,24
+277,Europe,San Marino,Female,5.21,25
+278,Africa,Sao Tome and Principe,Male,1.06,17
+279,Africa,Sao Tome and Principe,Female,1.06,18
+280,Eastern Mediterranean,Saudi Arabia,Male,1.87,17
+281,Eastern Mediterranean,Saudi Arabia,Female,1.87,22
+282,Africa,Senegal,Male,0.79,13
+283,Africa,Senegal,Female,0.79,14
+284,Europe,Serbia,Male,0.92,17
+285,Europe,Serbia,Female,0.92,20
+286,Africa,Seychelles,Male,5.95,17
+287,Africa,Seychelles,Female,5.95,23
+288,Africa,Sierra Leone,Male,0.41,11
+289,Africa,Sierra Leone,Female,0.41,10
+290,Western Pacific,Singapore,Male,8.52,23
+291,Western Pacific,Singapore,Female,8.52,26
+292,Europe,Slovakia,Male,3.15,18
+293,Europe,Slovakia,Female,3.15,23
+294,Europe,Slovenia,Male,3.26,21
+295,Europe,Slovenia,Female,3.26,25
+296,Eastern Mediterranean,Somalia,Male,0.30,15
+297,Eastern Mediterranean,Somalia,Female,0.30,16
+298,Africa,South Africa,Male,3.00,15
+299,Africa,South Africa,Female,3.00,18
+300,Europe,Spain,Male,4.43,22
+301,Europe,Spain,Female,4.43,27
+302,South-East Asia,Sri Lanka,Male,3.38,18
+303,South-East Asia,Sri Lanka,Female,3.38,22
+304,Eastern Mediterranean,Sudan,Male,2.53,17
+305,Eastern Mediterranean,Sudan,Female,2.53,18
+306,Americas,Suriname,Male,2.19,18
+307,Americas,Suriname,Female,2.19,22
+308,Africa,Swaziland,Male,3.75,15
+309,Africa,Swaziland,Female,3.75,17
+310,Europe,Sweden,Male,6.91,23
+311,Europe,Sweden,Female,6.91,25
+312,Europe,Switzerland,Male,6.93,23
+313,Europe,Switzerland,Female,6.93,27
+314,Eastern Mediterranean,Syrian Arab Republic,Male,0.64,19
+315,Eastern Mediterranean,Syrian Arab Republic,Female,0.64,21
+316,Europe,Tajikistan,Male,0.68,17
+317,Europe,Tajikistan,Female,0.68,17
+318,South-East Asia,Thailand,Male,1.80,19
+319,South-East Asia,Thailand,Female,1.80,22
+320,Europe,The former Yugoslav Republic of Macedonia,Male,1.11,18
+321,Europe,The former Yugoslav Republic of Macedonia,Female,1.11,20
+322,Africa,Togo,Male,0.75,16
+323,Africa,Togo,Female,0.75,17
+324,Western Pacific,Tonga,Male,3.79,18
+325,Western Pacific,Tonga,Female,3.79,19
+326,Americas,Trinidad and Tobago,Male,2.51,16
+327,Americas,Trinidad and Tobago,Female,2.51,21
+328,Eastern Mediterranean,Tunisia,Male,1.30,19
+329,Eastern Mediterranean,Tunisia,Female,1.30,21
+330,Europe,Turkey,Male,2.98,18
+331,Europe,Turkey,Female,2.98,22
+332,Europe,Turkmenistan,Male,1.19,15
+333,Europe,Turkmenistan,Female,1.19,17
+334,Western Pacific,Tuvalu,Male,5.39,14
+335,Western Pacific,Tuvalu,Female,5.39,15
+336,Africa,Uganda,Male,0.66,16
+337,Africa,Uganda,Female,0.66,17
+338,Europe,Ukraine,Male,0.70,15
+339,Europe,Ukraine,Female,0.70,20
+340,Eastern Mediterranean,United Arab Emirates,Male,1.91,18
+341,Eastern Mediterranean,United Arab Emirates,Female,1.91,19
+342,Europe,United Kingdom,Male,9.80,22
+343,Europe,United Kingdom,Female,9.80,25
+344,Africa,United Republic of Tanzania,Male,1.81,17
+345,Africa,United Republic of Tanzania,Female,1.81,18
+346,Americas,United States of America,Male,5.72,21
+347,Americas,United States of America,Female,5.72,24
+348,Americas,Uruguay,Male,3.32,19
+349,Americas,Uruguay,Female,3.32,24
+350,Europe,Uzbekistan,Male,0.69,16
+351,Europe,Uzbekistan,Female,0.69,18
+352,Western Pacific,Vanuatu,Male,6.56,17
+353,Western Pacific,Vanuatu,Female,6.56,19
+354,Americas,Venezuela (Bolivarian Republic of),Male,6.17,21
+355,Americas,Venezuela (Bolivarian Republic of),Female,6.17,24
+356,Western Pacific,Viet Nam,Male,0.75,20
+357,Western Pacific,Viet Nam,Female,0.75,22
+358,Eastern Mediterranean,Yemen,Male,0.75,16
+359,Eastern Mediterranean,Yemen,Female,0.75,17
+360,Africa,Zambia,Male,1.64,16
+361,Africa,Zambia,Female,1.64,17
+362,Africa,Zimbabwe,Male,0.50,17
+363,Africa,Zimbabwe,Female,0.50,19
